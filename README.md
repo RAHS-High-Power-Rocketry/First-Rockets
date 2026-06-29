@@ -7,3 +7,6 @@ HPR first rocket designs (familiarize yourself w/ rocketry!!)
 
 
 # DO NOT MERGE YOUR BRANCH TO MAIN!!! DO NOT PRESS "compare and pull request"
+
+
+## remember to drill holes in the rocket body for altimeter readings
